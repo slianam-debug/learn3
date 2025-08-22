@@ -9,7 +9,7 @@
     <exercise>
       <statement>
         <p>
-        [Chapter 1, starting p.31]: 1.7*, 5.1, 5.4
+        [Chapter 1, starting p.31]: 1.7*, 5.1, 5.2, 5.4
         </p>
       </statement>
        <solution>
@@ -34,7 +34,7 @@
         <p>
       For problem 4.7: The last thing you are asked to prove in this exercise is 
       that (assuming the given hypotheses), the set <m>H=\{1,x,y,xy\}</m> has
-      cardinality <m>4</m>.   This is not completely obvious. You need to argue that the elements <m>1,x,y,xy</m> are distinct. For example, why can't we have <m>x=xy</m>?
+      cardinality <m>4</m>.   This is not completely obvious. You need to argue that the elements <m>1,x,y,xy</m> are distinct. For example, why can't we have <m>x=xy</m> or <m>xy=1</m>?
         </p>
       </solution>
     
@@ -42,7 +42,7 @@
 
     <exercise>
       <p>
-    Let <m>H </m> be a subgroup of a group <m>G </m>.  Let <m>g\in G</m>, and let <m>m</m> and <m>n</m> be positive
+    [Problem A] Let <m>H </m> be a subgroup of a group <m>G </m>.  Let <m>g\in G</m>, and let <m>m</m> and <m>n</m> be positive
       integers.  Show that if <m>g^m\in H</m> and <m>g^n\in H</m>, then 
       <m>g^d\in H</m>, where <m>d=\gcd(m,n)</m> is the greatest common divisor
       of <m>m</m> and <m>n</m>.
