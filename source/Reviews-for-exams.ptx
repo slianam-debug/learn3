@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Reviews-for-exams" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Exam Reviews </title>
+
+  <introduction>
+    <p> Will be posted 1 week before exams </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="Exam1-review.ptx" />
+  <xi:include href="Exam2-review.ptx" />
+
+</chapter>
