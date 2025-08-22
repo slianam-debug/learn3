@@ -3,6 +3,52 @@
 <section xml:id="HW1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Homework 1</title>
 
-  <p> Coming up </p>
+  <p><alert> Due Wednesday, September 3</alert></p>
+
+<exercises xml:id="hw1-ex">
+    <exercise>
+      <statement>
+        <p>
+        [Chapter 1, starting p.31]: 1.7*, 5.1, 5.4
+        </p>
+      </statement>
+       <solution>
+        <p>
+          For problem 1.7: I expect to see an induction proof, with all details.  Note that the convention is that the missing entries in the matrix are zeros.
+        </p>
+      </solution>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p>
+          [Chapter 2, starting p.69]:  2.3(ab), 2.4(abcde)*, 4.7*
+        </p>
+      </statement>
+      <solution>
+        <p>
+           For problem 2.4: Make sure to fully explain in each case why <m>H</m> is a subgroup (prove it!) or why <m>H</m> is not a subgroup (i.e. indicate which one of the laws in the definition of a subgroup does not hold and explain why.)
+        </p>
+      </solution>
+      <solution>
+        <p>
+      For problem 4.7: The last thing you are asked to prove in this exercise is 
+      that (assuming the given hypotheses), the set <m>H=\{1,x,y,xy\}</m> has
+      cardinality <m>4</m>.   This is not completely obvious. You need to argue that the elements <m>1,x,y,xy</m> are distinct. For example, why can't we have <m>x=xy</m>?
+        </p>
+      </solution>
+    
+    </exercise>
+
+    <exercise>
+      <p>
+    Let <m>H </m> be a subgroup of a group <m>G </m>.  Let <m>g\in G</m>, and let <m>m</m> and <m>n</m> be positive
+      integers.  Show that if <m>g^m\in H</m> and <m>g^n\in H</m>, then 
+      <m>g^d\in H</m>, where <m>d=\gcd(m,n)</m> is the greatest common divisor
+      of <m>m</m> and <m>n</m>.
+  </p>
+    </exercise>
+
+</exercises>
 
 </section>

@@ -20,6 +20,8 @@
   <!-- to define these semantically, so that the macro relates to what-->
   <!-- it defines. -->
   <macros> \newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R} </macros>
+<rename element="exercises">problems</rename>
+<rename element="solution"> comment </rename>
 
   <!-- If you put any latex-image elements you can include preambles -->
   <!-- for those in the next element. -->
