@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Homework 1",
-  "body": " Homework 1  Due Wednesday, September 3     [Chapter 1, starting p.31]: 1.7*, 5.1, 5.4    For problem 1.7: I expect to see an induction proof, with all details. Note that the convention is that the missing entries in the matrix are zeros..      [Chapter 2, starting p.69]: 2.3(ab), 2.4(abcde)*, 4.7*    For problem 2.4: Make sure to fully explain in each case why is a subgroup (prove it!) or why is not a subgroup (i.e. indicate which one of the laws in the definition of a subgroup does not hold and explain why.)    For problem 4.7: The last thing you are asked to prove in this exercise is that (assuming the given hypotheses), the set has cardinality . This is not completely obvious. You need to argue that the elements are distinct. For example, why can't we have ?     Let be a subgroup of a group . Let , and let and be positive integers. Show that if and , then , where is the greatest common divisor of and .    "
+  "body": " Homework 1  Due Wednesday, September 3     [Chapter 1, starting p.31]: 1.7*, 5.1, 5.2, 5.4    For problem 1.7: I expect to see an induction proof, with all details. Note that the convention is that the missing entries in the matrix are zeros.      [Chapter 2, starting p.69]: 2.3(ab), 2.4(abcde)*, 4.7*    For problem 2.4: Make sure to fully explain in each case why is a subgroup (prove it!) or why is not a subgroup (i.e. indicate which one of the laws in the definition of a subgroup does not hold and explain why.)    For problem 4.7: The last thing you are asked to prove in this exercise is that (assuming the given hypotheses), the set has cardinality . This is not completely obvious. You need to argue that the elements are distinct. For example, why can't we have or ?     [Problem A] Let be a subgroup of a group . Let , and let and be positive integers. Show that if and , then , where is the greatest common divisor of and .    "
 },
 {
   "id": "hw1-ex-1",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.1.1",
   "title": "",
-  "body": "  [Chapter 1, starting p.31]: 1.7*, 5.1, 5.4    For problem 1.7: I expect to see an induction proof, with all details. Note that the convention is that the missing entries in the matrix are zeros..   "
+  "body": "  [Chapter 1, starting p.31]: 1.7*, 5.1, 5.2, 5.4    For problem 1.7: I expect to see an induction proof, with all details. Note that the convention is that the missing entries in the matrix are zeros.   "
 },
 {
   "id": "hw1-ex-2",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.1.2",
   "title": "",
-  "body": "  [Chapter 2, starting p.69]: 2.3(ab), 2.4(abcde)*, 4.7*    For problem 2.4: Make sure to fully explain in each case why is a subgroup (prove it!) or why is not a subgroup (i.e. indicate which one of the laws in the definition of a subgroup does not hold and explain why.)    For problem 4.7: The last thing you are asked to prove in this exercise is that (assuming the given hypotheses), the set has cardinality . This is not completely obvious. You need to argue that the elements are distinct. For example, why can't we have ?   "
+  "body": "  [Chapter 2, starting p.69]: 2.3(ab), 2.4(abcde)*, 4.7*    For problem 2.4: Make sure to fully explain in each case why is a subgroup (prove it!) or why is not a subgroup (i.e. indicate which one of the laws in the definition of a subgroup does not hold and explain why.)    For problem 4.7: The last thing you are asked to prove in this exercise is that (assuming the given hypotheses), the set has cardinality . This is not completely obvious. You need to argue that the elements are distinct. For example, why can't we have or ?   "
 },
 {
   "id": "hw1-ex-3",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.1.3",
   "title": "",
-  "body": " Let be a subgroup of a group . Let , and let and be positive integers. Show that if and , then , where is the greatest common divisor of and .  "
+  "body": " [Problem A] Let be a subgroup of a group . Let , and let and be positive integers. Show that if and , then , where is the greatest common divisor of and .  "
 },
 {
   "id": "HW2",
