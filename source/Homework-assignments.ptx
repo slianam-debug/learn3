@@ -10,5 +10,8 @@
   <!-- include sections -->
   <xi:include href="HW1.ptx" />
   <xi:include href="HW2.ptx" />
-
+  <xi:include href="HW3.ptx" />
+  <xi:include href="HW4.ptx" />
+  <xi:include href="HW5.ptx" />
+  <xi:include href="HW6.ptx" />
 </chapter>
