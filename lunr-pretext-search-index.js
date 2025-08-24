@@ -46,6 +46,42 @@ var ptx_lunr_docs = [
   "body": " Homework 2  Coming up  "
 },
 {
+  "id": "HW3",
+  "level": "1",
+  "url": "HW3.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Homework 3",
+  "body": " Homework 3  "
+},
+{
+  "id": "HW4",
+  "level": "1",
+  "url": "HW4.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Homework 4",
+  "body": " Homework 4  "
+},
+{
+  "id": "HW5",
+  "level": "1",
+  "url": "HW5.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Homework 5",
+  "body": " Homework 5  "
+},
+{
+  "id": "HW6",
+  "level": "1",
+  "url": "HW6.html",
+  "type": "Section",
+  "number": "1.6",
+  "title": "Homework 6",
+  "body": " Homework 6  "
+},
+{
   "id": "Exam1-review",
   "level": "1",
   "url": "Exam1-review.html",
