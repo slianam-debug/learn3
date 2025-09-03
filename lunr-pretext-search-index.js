@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Homework 2",
-  "body": " Homework 2  Due Wednesday, September 10     [Chapter 2, starting p.69]: 4.2^*, 4.6^*, 4.9, 5.1, 5.3    For problem 4.2: You will need to use some knowledge about roots of unity that is taught in an undergraduate Complex Analysis class or perhaps some engineering classes. If you never took such a class, you can search online for relevant information on roots of unity, you could talk to me about it, or you could get help from your classmates who know this stuff.    For problem 4.6: If is a cyclic group of order , then an element generates if and only if has order . Use the third bullet of Proposition 2.4.3 to describe when this happens.     [Problem A] Let be a cyclic group; say . Let be a subgroup of . Show that either or , where is the least positive integer such that . (This shows that every subgroup of a cyclic group is cyclic.)    You can either try to mimic the proof of Theorem 2.3.3, or perhaps you can find a way to use Theorem 2.3.3, together with a modified version of part (a) of Proposition 2.4.2.    [Problem B] Let denote the quaternion group described on page 47 of the text: . I suggest using equations (2.4.6) to do computations instead of the matrix representations given in the definition.    List all cyclic subgroups of (and list the elements of each subgroup). How many distinct cyclic subgroups are there?  Determine the center of     Prove the statement of the last (3rd) bullet of Proposition 2.4.3 (on page 47).    "
+  "body": " Homework 2  Due Wednesday, September 10     [Chapter 2, starting p.69]: 4.2*, 4.6*, 4.9, 5.1, 5.3    For problem 4.2: You will need to use some knowledge about roots of unity that is taught in an undergraduate Complex Analysis class or perhaps some engineering classes. If you never took such a class, you can search online for relevant information on roots of unity, you could talk to me about it, or you could get help from your classmates who know this stuff.    For problem 4.6: If is a cyclic group of order , then an element generates if and only if has order . Use the third bullet of Proposition 2.4.3 to describe when this happens.     [Problem A] Let be a cyclic group; say . Let be a subgroup of . Show that either or , where is the least positive integer such that . (This shows that every subgroup of a cyclic group is cyclic.)    You can either try to mimic the proof of Theorem 2.3.3, or perhaps you can find a way to use Theorem 2.3.3, together with a modified version of part (a) of Proposition 2.4.2.    [Problem B] Let denote the quaternion group described on page 47 of the text: . I suggest using equations (2.4.6) to do computations instead of the matrix representations given in the definition.    List all cyclic subgroups of (and list the elements of each subgroup). How many distinct cyclic subgroups are there?  Determine the center of     [Problem C] Prove the statement of the last (3rd) bullet of Proposition 2.4.3 (on page 47).    "
 },
 {
   "id": "hw2-ex-1",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.2.1",
   "title": "",
-  "body": "  [Chapter 2, starting p.69]: 4.2^*, 4.6^*, 4.9, 5.1, 5.3    For problem 4.2: You will need to use some knowledge about roots of unity that is taught in an undergraduate Complex Analysis class or perhaps some engineering classes. If you never took such a class, you can search online for relevant information on roots of unity, you could talk to me about it, or you could get help from your classmates who know this stuff.    For problem 4.6: If is a cyclic group of order , then an element generates if and only if has order . Use the third bullet of Proposition 2.4.3 to describe when this happens.   "
+  "body": "  [Chapter 2, starting p.69]: 4.2*, 4.6*, 4.9, 5.1, 5.3    For problem 4.2: You will need to use some knowledge about roots of unity that is taught in an undergraduate Complex Analysis class or perhaps some engineering classes. If you never took such a class, you can search online for relevant information on roots of unity, you could talk to me about it, or you could get help from your classmates who know this stuff.    For problem 4.6: If is a cyclic group of order , then an element generates if and only if has order . Use the third bullet of Proposition 2.4.3 to describe when this happens.   "
 },
 {
   "id": "hw2-ex-2",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.2.4",
   "title": "",
-  "body": " Prove the statement of the last (3rd) bullet of Proposition 2.4.3 (on page 47).  "
+  "body": " [Problem C] Prove the statement of the last (3rd) bullet of Proposition 2.4.3 (on page 47).  "
 },
 {
   "id": "HW3",
