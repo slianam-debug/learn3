@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="HW2" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <section xml:id="HW2" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Homework 2</title>
 
-  <p> Coming up </p>
+  <p><alert> Due Wednesday, September 10</alert></p>
 
+<exercises xml:id="hw2-ex">
+    <exercise>
+      <statement>
+        <p>
+        [Chapter 2, starting p.69]: 4.2*,  4.6*,  4.9, 5.1,  5.3
+        </p>
+      </statement>
+       <solution>
+        <p>
+          For problem 4.2: You will need to use some knowledge about roots of unity that is taught in
+an undergraduate Complex Analysis class or perhaps some engineering classes. If you never
+took such a class, you can search online for relevant information on roots of unity, you could
+talk to me about it, or you could get help from your classmates who know this stuff.
+        </p>
+      </solution>
+<hint>
+        <solution>
+          For problem 4.6: If <m>G=\langle x \rangle </m> is a cyclic group of order <m> n</m>, then an element <m>x^k</m> generates <m>G</m> if and only if <m>x^k</m> has order <m>n</m>. Use the third bullet of Proposition 2.4.3 to describe when this happens. 
+        </solution>
+      </hint>
+
+    </exercise>
+
+    <exercise>
+    <p> [Problem A] Let <m>G</m> be a cyclic group; say <m>G = \langle g\rangle </m>. Let <m>H</m> be a subgroup of <m>G</m>. Show that either <m>H =\{1\}</m>
+or <m>H = \langle g^d\rangle </m>, where <m>d</m> is the least positive integer such that <m>g^d\in H</m>. (This shows that every
+subgroup of a cyclic group is cyclic.)
+    </p>
+    </exercise>
+
+    <hint>
+      <p>
+        You can either try to mimic the proof of Theorem 2.3.3, or perhaps you can
+find a way to use Theorem 2.3.3, together with a modified version of part (a) of Proposition
+2.4.2.
+      </p>
+    </hint>
+
+    <exercise>
+      <p>
+        [Problem B] Let <m>Q_8</m> denote the quaternion group described on page 47
+  of the text: <m>Q_8=\{\pm 1, \pm i, \pm j, \pm k\}</m>.   I suggest using equations (2.4.6) to do computations instead of
+  the matrix representations given in the definition.
+      </p>
+  <ol>
+   <li> <p> List all cyclic subgroups of <m>Q_8</m> (and list the elements of each subgroup).  How many distinct cyclic subgroups are there? </p></li>
+  <li> Determine the center of <m>Q_8</m></li>
+  </ol>
+  </exercise>
+
+  <exercise>
+    <p>
+      [Problem C] Prove the statement of the last (3rd) bullet of Proposition 2.4.3 (on page 47).
+    </p>
+  </exercise>
+    
+
+  </exercises>
 </section>
