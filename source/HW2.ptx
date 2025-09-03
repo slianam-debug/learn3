@@ -21,11 +21,13 @@ took such a class, you can search online for relevant information on roots of un
 talk to me about it, or you could get help from your classmates who know this stuff.
         </p>
       </solution>
-<hint>
+
         <solution>
+          <p>
           For problem 4.6: If <m>G=\langle x \rangle </m> is a cyclic group of order <m> n</m>, then an element <m>x^k</m> generates <m>G</m> if and only if <m>x^k</m> has order <m>n</m>. Use the third bullet of Proposition 2.4.3 to describe when this happens. 
+          </p>
         </solution>
-      </hint>
+  
 
     </exercise>
 
