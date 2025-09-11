@@ -22,7 +22,7 @@
         </li>
         <li>
           <p>
-           For problem 8.6: The {\it trivial} homomorphism <m>\varphi\colon G\to G'</m> is the homomorphism defined 
+           For problem 8.6: The <alert> trivial </alert>  homomorphism <m>\varphi\colon G\to G'</m> is the homomorphism defined 
            by <m>\varphi(x)=1</m> for all <m>x\in G</m>. In other words, <m>\varphi</m> is trivial if and only if <m>\text{Im}(\varphi)=\{1\}</m>. 
           </p>
         </li>
