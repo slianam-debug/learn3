@@ -3,4 +3,105 @@
 <section xml:id="HW3" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Homework 3</title>
 
+
+  <p><alert> Due Wednesday, September 17</alert></p>
+
+<exercises xml:id="hw3-ex">
+    <exercise>
+      <statement>
+        <p>
+        [Chapter 2, starting p.69]: 6.8, 8.3, 8.6, 8.8, 8.10, 10.2
+        </p>
+      </statement>
+       <solution>
+      <uol>
+        <li>
+          <p>
+           For problems 8.3 and 8.8: Use the 3rd bullet of Proposition 2.4.3 to create elements of desired order. 
+          </p>
+        </li>
+        <li>
+          <p>
+           For problem 8.6: The {\it trivial} homomorphism <m>\varphi\colon G\to G'</m> is the homomorphism defined 
+           by <m>\varphi(x)=1</m> for all <m>x\in G</m>. In other words, <m>\varphi</m> is trivial if and only if <m>\text{Im}(\varphi)=\{1\}</m>. 
+          </p>
+        </li>
+        <li>
+          <p>
+            For problem 8.10: Use problem C below and Proposition 2.8.17. 
+          </p>
+        </li>
+      </uol>
+      </solution>
+  
+
+    </exercise>
+
+    <exercise>
+    <p> [Problem A] Use the terminolgy introduced in Section 2.7 regarding the fibres of a function. 
+    </p>
+<ol>
+  <li>
+    <p>
+      Define <m>v\colon\mathbb R\to\mathbb R</m> by <m>v(x)=|x|</m>.  Determine all the fibres of <m>v</m>. Is the empty set a fibre? 
+    </p>
+  </li>
+  <li>
+    <p>
+      Define <m>f\colon\mathbb R\times\mathbb R\to\mathbb R</m> by <m>f(x,y)=y-x</m>.  
+       Sketch four distinct fibres of <m>f</m> in the coordinate plane.
+       (This makes sense because each fibre of <m>f</m> is a subset of the
+       domain of <m>f</m>, and the domain of this <m>f</m> is <m>\mathbb R\times\mathbb R</m>,
+       i.e. the coordinate plane.)
+    </p>
+  </li>
+</ol>
+    </exercise>
+
+    <exercise>
+      <p>
+        [Problem B] 
+        Let <m>G</m> be a group and let <m>H</m> and <m>K</m> be subgroups of <m>G</m>. Assume <m>|H|=p</m> and <m>|K|=q</m>, where <m>p</m> and <m>q</m> are prime numbers. 
+      </p>
+      <ol>
+        <li>
+          <p>
+            If <m>p\ne q</m>, prove <m>H\cap K=\{1\}</m>. 
+          </p>
+        </li>
+        <li>
+          <p>
+           If <m>p=q</m>, prove <m>H=K</m> or  <m>H\cap K=\{1\}</m> 
+          </p>
+        </li>
+      </ol>    
+  </exercise>
+
+  <hint>
+    <p>
+      You may assume known that the intersection of two subgroups is a subgroup. Use Lagrange's Theorem.
+    </p>
+  </hint>
+  <exercise>
+    <p>
+      [Problem C]  Let <m>G</m> be a group, possibly infinite, and <m>H</m> a subgroup. Let <m>\mathcal A</m> denote the set of left cosets of <m>H</m> and let <m>\mathcal B</m> denote the set of right cosets.
+       (These sets could be infinite too). Define <m>f\colon \mathcal A\to \mathcal B</m> by  
+    </p>
+<me>
+f(gH)=Hg^{-1} \qquad \text{ for all }  g\in G 
+</me>
+<ol>
+  <li>
+    <p>
+      Prove that <m>f</m> is a function (that is, prove <m>f</m> is well-defined). 
+    </p>
+  </li>
+  <li>
+    <p>
+     Prove that <m>f</m> is bijective. (This implies that <m>|\mathcal A|=|\mathcal B|</m> and thus the number of left cosets equals the number of right cosets.) 
+    </p>
+  </li>
+</ol>
+</exercise>
+</exercises>
 </section>
