@@ -133,7 +133,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Homework 4",
-  "body": " Homework 4  "
+  "body": " Homework 4  Due Wednesday, September 24     [Chapter 2, starting p.69]: 11.3, 11.4, 11.6, 11.9      For Problem 11.3: Since any infinite cyclic group is isomorphic with (with addition), it is enough to show that . A ssume that an isomorphism exists. Set . Try to reach a contradiction, by identifying conditions that need to be satisfied by . Keep in mind that the operation is addition if you work with , and thus .    For Problem 11.4: To prove that is a direct product of and , use the Product Proposition 2.11.4: make sure to check the three conditions that are needed to conclude that the mapping defined there is an isomorphism. If you want to prove that is NOT a direct product, please note that the Product proposition cannot be used, because it will only show that the multiplication map is not an isomorphism, leaving open the possibility that maybe some other function could be an isomorphism. Instead, you can try to argue that one of the groups has some property (e.g. abelian, cyclic, etc.) while the other one does not.    For Problem 11.6: If is and denote the two subgroups, then use the product proposition to show that . Then argue that has an element of order .       [Problem A] Let be a group. We define a relation on by: Prove this is an equivalence relation.    "
+},
+{
+  "id": "hw4-ex-1",
+  "level": "2",
+  "url": "HW4.html#hw4-ex-1",
+  "type": "Exercise",
+  "number": "1.4.1",
+  "title": "",
+  "body": "  [Chapter 2, starting p.69]: 11.3, 11.4, 11.6, 11.9      For Problem 11.3: Since any infinite cyclic group is isomorphic with (with addition), it is enough to show that . A ssume that an isomorphism exists. Set . Try to reach a contradiction, by identifying conditions that need to be satisfied by . Keep in mind that the operation is addition if you work with , and thus .    For Problem 11.4: To prove that is a direct product of and , use the Product Proposition 2.11.4: make sure to check the three conditions that are needed to conclude that the mapping defined there is an isomorphism. If you want to prove that is NOT a direct product, please note that the Product proposition cannot be used, because it will only show that the multiplication map is not an isomorphism, leaving open the possibility that maybe some other function could be an isomorphism. Instead, you can try to argue that one of the groups has some property (e.g. abelian, cyclic, etc.) while the other one does not.    For Problem 11.6: If is and denote the two subgroups, then use the product proposition to show that . Then argue that has an element of order .     "
+},
+{
+  "id": "hw4-ex-2",
+  "level": "2",
+  "url": "HW4.html#hw4-ex-2",
+  "type": "Exercise",
+  "number": "1.4.2",
+  "title": "",
+  "body": " [Problem A] Let be a group. We define a relation on by: Prove this is an equivalence relation.  "
 },
 {
   "id": "HW5",
