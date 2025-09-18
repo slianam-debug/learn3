@@ -42,7 +42,7 @@
         </li>
         <li>
           <p>
-            For Problem 11.6:  If <m>H</m> is and <m>K</m> denote the two subgroups, 
+            For Problem 11.6:  If <m>H</m> and <m>K</m> denote the two subgroups, 
             then use the product proposition to show that <m>HK\cong H\times K</m>. 
             Then argue that <m>H\times K</m> has an element of order <m>15</m>. 
           </p>
