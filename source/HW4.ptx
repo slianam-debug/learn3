@@ -3,4 +3,63 @@
 <section xml:id="HW4" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Homework 4</title>
 
+
+  <p><alert> Due Wednesday, September 24</alert></p>
+
+<exercises xml:id="hw4-ex">
+    <exercise>
+      <statement>
+        <p>
+        [Chapter 2, starting p.69]: 11.3, 11.4, 11.6, 11.9 
+        </p>
+      </statement>
+       <solution>
+      <ul>
+        <li>
+          <p>
+            For Problem 11.3: Since any infinite cyclic group is isomorphic with <m>\mathbb Z</m> 
+            (with addition), it is enough to show that
+             <m>\mathbb Z\times \mathbb Z\not\cong \mathbb Z</m>. A
+             ssume that  an isomorphism <m>\varphi\colon \mathbb Z\to \mathbb Z\times \mathbb Z</m>
+              exists. Set <m>\varphi(1)=(a,b)</m>. Try to reach a contradiction, by identifying conditions
+               that need to be satisfied by <m>a,b</m>. Keep in mind that the operation is addition
+                if you work with <m>\mathbb Z</m>, and thus <m>\phi(n)=(na,nb)</m>. 
+          </p>
+        </li>
+        <li>
+          <p>
+           
+          For Problem 11.4: To prove that <m>G</m> is a direct product of <m>H</m> and <m>K</m>,
+           use the Product Proposition 2.11.4: make sure to check the three conditions that
+            are needed to conclude that the mapping <m>f</m> defined there  is an isomorphism.
+              If you want to prove that <m>G</m> is NOT a direct product, please note that the 
+              Product proposition cannot be used, because it will only show that the multiplication
+               map <m>f</m> is not an isomorphism, leaving open the possibility that maybe some other function could be an isomorphism. 
+              Instead, you can try to 
+              argue that one of the
+              groups has some property (e.g. abelian, cyclic, etc.) while the other one does not.
+          </p>
+        </li>
+        <li>
+          <p>
+            For Problem 11.6:  If <m>H</m> is and <m>K</m> denote the two subgroups, 
+            then use the product proposition to show that <m>HK\cong H\times K</m>. 
+            Then argue that <m>H\times K</m> has an element of order <m>15</m>. 
+          </p>
+        </li>
+      </ul>
+      </solution>
+  
+
+    </exercise>
+
+    <exercise>
+    <p> [Problem A] Let <m>G</m> be a group. We define a relation on <m>G</m> by: 
+<me>
+a\sim b \iff \mbox{ There exists } g\in G  \mbox{ such that } b=g^{-1}ag 
+</me>
+Prove this is an equivalence relation.  
+    </p>
+</exercise>
+</exercises>
 </section>
