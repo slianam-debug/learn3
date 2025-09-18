@@ -19,8 +19,7 @@
           <p>
             For Problem 11.3: Since any infinite cyclic group is isomorphic with <m>\mathbb Z</m> 
             (with addition), it is enough to show that
-             <m>\mathbb Z\times \mathbb Z\not\cong \mathbb Z</m>. A
-             ssume that  an isomorphism <m>\varphi\colon \mathbb Z\to \mathbb Z\times \mathbb Z</m>
+             <m>\mathbb Z\times \mathbb Z\not\cong \mathbb Z</m>. Assume that  an isomorphism <m>\varphi\colon \mathbb Z\to \mathbb Z\times \mathbb Z</m>
               exists. Set <m>\varphi(1)=(a,b)</m>. Try to reach a contradiction, by identifying conditions
                that need to be satisfied by <m>a,b</m>. Keep in mind that the operation is addition
                 if you work with <m>\mathbb Z</m>, and thus <m>\phi(n)=(na,nb)</m>. 
