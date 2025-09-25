@@ -3,4 +3,106 @@
 <section xml:id="HW5" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Homework 5</title>
 
+  <p><alert> Due Wednesday, October 1</alert></p>
+
+<exercises xml:id="hw5-ex">
+    <exercise>
+      <statement>
+        <p>
+        [Chapter 2, starting p.69]: 12.5
+        </p>
+      </statement>
+       <solution>
+          <p>
+            Note that, if <m> S</m> is not normal, you do not need to do anything else other than explain why <m> S</m> is not normal. 
+
+If <m> S</m> is normal: The problem asks you to identify the quotient group <m> G/S</m>. 
+What does ``identify" mean? You need to establish an isomorphism with a familiar group using FIT. 
+ You will have to guess the group and the homomorphism! Once you guess it, make sure to check that 
+ it is indeed a homomorphism. To argue that <m> S</m> is normal, you may simply argue that <m> S</m> is the kernel.
+          </p>
+      </solution>
+    </exercise>
+
+     <exercise>
+      <statement>
+        <p>
+        [Chapter 3, starting p.98]: In the past there has been some discrepancy in numbering between different versions of the book. 
+        <ul>
+          <li>
+            <p>
+               If on page 98 of your book the Exercises start with ``Section 1 Fields", then do problems:  1.2, 1.4, 1.8*, 2.2, 3.1, 4.1, 4.2
+            </p>
+          </li>
+          <li>
+            <p>
+               If on page 98 of your book the Exercises start with ``Section 2  Fields", then do:  2.2, 2.4, 2.8*, 3.2, 4.1, 5.1, 5.2
+            </p>
+          </li>
+        </ul>
+        </p>
+      </statement>
+<hint>
+  <p>
+  For 1.8 (or 2.8): (a) Use the fact that <m> \mathbb F_p^\times</m> is a group with <m> p-1</m> elements, 
+with respect to multiplication, and use a corollary to Lagrange. 
+(b) Use the fact that <m> \mathbb F_p^\times</m> is cyclic. Do NOT use any solutions found in other books or on the internet!! 
+Most of the solutions out there rely on different methods, that do not relate to the intended purpose of the problem. 
+  </p>
+</hint>
+    </exercise>
+    <exercise>
+    <p> [Problem A] 
+      We proved in class that <m> \mathbb R/2\pi \mathbb Z\cong  \mathcal U</m> , where <m> \mathcal U\subseteq \mathbb C^{\times}</m> 
+denotes the unit circle. (This is done using the exponential function <m> \theta\mapsto e^{i\theta}</m> and FIT.) 
+Modify this proof to show that  <m> \mathbb R/\mathbb Z\cong  \mathcal U</m> . 
+    </p>
+    <solution>
+      <p>
+    <m>\mathbb R</m> and <m>\mathbb Z</m> are considered as groups with addition
+      </p>
+    </solution>
+</exercise>
+
+<exercise>
+  <statement>
+    <p>
+    [Problem B]
+    Consider the multiplicative group <m> G=\mathbb F^{\times}</m> of nonzero elements in a field <m> \mathbb F</m> with <m> n</m> elements. 
+    </p>
+    <ol>
+<li>
+  <p>
+    Prove that the set <m> H=\{x^2\mid x\in G\}</m> is a subgroup of <m> G</m> . 
+  </p>
+</li>
+<li>
+  <p>
+ Determine the index <m> [G\colon H]</m> . (The fact that <m> \mathbb F</m> is a field is important here. 
+ Make sure to explain where it is used.)
+    </p>
+</li>
+<li>
+<p>
+   Assume <m> -1\notin H</m> . Prove that for each <m> x\in G</m> either <m> x\in H</m> or <m> -x\in H</m> .  Make sure to explain why the hypothesis <m> -1\notin H</m> is relevant. 
+</p>
+</li>
+  </ol>
+    </statement>
+    <hint>
+      <p>
+        For (a) I recommend that you construct a homomorphism <m> \varphi</m> such that <m> H=\text{Im}(\varphi)</m> . 
+        Then you can use the known fact that the image of a homomorphism is a subgroup. 
+        However, make sure to prove <m> \varphi</m> is a homomorphism.  For (b), you need to know <m> |H|</m> .  
+        Think about using  FIT. If you can use FIT to show that <m> G/N\cong H</m> for some <m> N</m> that you will have to figure out, 
+        then you have <m> |H|=|G/N|=|G|/|N|</m> . For (c), it may be useful to think about the cosets of <m> H</m> . 
+      </p>
+    </hint>
+</exercise>
+</exercises>
+
+
+
+
+
 </section>
