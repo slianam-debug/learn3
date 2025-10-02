@@ -205,7 +205,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Homework 6",
-  "body": " Homework 6  "
+  "body": " Homework 6  Due Wednesday, October 8     [Chapter 3, starting p.98]: In the past there has been some discrepancy in numbering between different versions of the book.   If on page 98 of your book the Exercises start with ``Section 1 Fields\", then do problem: 4.1    If on page 98 of your book the Exercises start with ``Section 2 Fields\", then do: 5.1        [Chapter 4, starting p.125]: 5.1     [Chapter 5, starting page 150]: 1.3 (Treat only the cases and )      [Problem A] Let denote the vector space of polynomials of degree at most 3 with coefficients in . Consider the function described as follows: If is a polynomial of , then is equal to the polynomial where denote the first, respectively second, derivative of .   Prove that is a linear transformation.    Write the matrix of with respect to the basis on .        Recall that we defined to be the group of orthogonal matrices (with coefficients in ), with respect to muliplication. (It is a subroup of ). Now let denote the set of all orthogonal operators .   Prove that is a group with respect to composition of functions. (Show it is a subgroup of the permutation group of consisting of all bijective functions .)   Prove the isomorphism: (If you are wondering what the isomorphism should be, ask yourself: how do you associate a matrix to a linear operator?)      "
+},
+{
+  "id": "hw6-ex-1",
+  "level": "2",
+  "url": "HW6.html#hw6-ex-1",
+  "type": "Exercise",
+  "number": "1.6.1",
+  "title": "",
+  "body": "  [Chapter 3, starting p.98]: In the past there has been some discrepancy in numbering between different versions of the book.   If on page 98 of your book the Exercises start with ``Section 1 Fields\", then do problem: 4.1    If on page 98 of your book the Exercises start with ``Section 2 Fields\", then do: 5.1      "
+},
+{
+  "id": "hw6-ex-2",
+  "level": "2",
+  "url": "HW6.html#hw6-ex-2",
+  "type": "Exercise",
+  "number": "1.6.2",
+  "title": "",
+  "body": " [Chapter 4, starting p.125]: 5.1  "
+},
+{
+  "id": "hw6-ex-3",
+  "level": "2",
+  "url": "HW6.html#hw6-ex-3",
+  "type": "Exercise",
+  "number": "1.6.3",
+  "title": "",
+  "body": "  [Chapter 5, starting page 150]: 1.3 (Treat only the cases and )   "
+},
+{
+  "id": "hw6-ex-4",
+  "level": "2",
+  "url": "HW6.html#hw6-ex-4",
+  "type": "Exercise",
+  "number": "1.6.4",
+  "title": "",
+  "body": "  [Problem A] Let denote the vector space of polynomials of degree at most 3 with coefficients in . Consider the function described as follows: If is a polynomial of , then is equal to the polynomial where denote the first, respectively second, derivative of .   Prove that is a linear transformation.    Write the matrix of with respect to the basis on .      "
+},
+{
+  "id": "hw6-ex-5",
+  "level": "2",
+  "url": "HW6.html#hw6-ex-5",
+  "type": "Exercise",
+  "number": "1.6.5",
+  "title": "",
+  "body": " Recall that we defined to be the group of orthogonal matrices (with coefficients in ), with respect to muliplication. (It is a subroup of ). Now let denote the set of all orthogonal operators .   Prove that is a group with respect to composition of functions. (Show it is a subgroup of the permutation group of consisting of all bijective functions .)   Prove the isomorphism: (If you are wondering what the isomorphism should be, ask yourself: how do you associate a matrix to a linear operator?)    "
 },
 {
   "id": "Exam1-review",
