@@ -3,6 +3,250 @@
 <section xml:id="Exam1-review" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Review for Exam 1</title>
 
-  <p> Coming up </p>
+  
+<p> Exam 1 covers the following sections from the book: 
+</p>
+  <ul> 
+  <li>
+   Chapter 1: 1.5
+  </li>
+  <li>
+   Chapter 2: 2.1-2.12
+  </li> 
+  <li>
+   Chapter 3:  3.1-3.5 (selected topics, as discussed in class)
+</li>
+<li>
+ Chapter 4: 4.1-4.4 (selected topics, as discussed in class)
+</li>
+<li>
+ Chapter 5: 5.1 (for 5.1 only up to and including page 134)
+</li>
+  </ul>
+
+
+  <p> Here are some skills that are needed towards problem solving. You need to be able to: 
+  </p>
+    <ol>
+      <li>
+        <p>
+          Work with permutations, use cycle notation, compute signature of a permutation, find the matrix associated to a permutation. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Give the definition of a: group/subgroup, homomorphism, and use it to prove various properties. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a given set is a subgroup (closure, identity, inverses)
+        </p>
+      </li>
+       <li>
+        <p>
+          Use the notions of lcm and gcd of two integers and their properties. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a given set is a normal subgroup (using either the definition, or cosets, or writing it as a kernel). Also, be able to explain why a given subgroup is not be normal.  
+        </p>
+      </li>
+      <li>
+        <p>
+           Prove that a given group or subgroup is cyclic or not cyclic. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a given function is a homomorphism. Compute the kernel and the image. Decide whether the homomorphism is injective or surjective. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that two given groups are isomorphic by constructing an isomorphism (or other arguments, such as: they are both cyclic and have the same number of elements).  
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the Product Proposition to prove isomorphisms of groups 
+        </p>
+      </li>
+      <li>
+        <p>
+          Argue (most likely by contradiction) why two given groups are not isomorphic. (e.g. explain that one is abelian and the other one is not, or one is cyclic and the other one is not)
+        </p>
+      </li>
+      <li>
+        <p>
+          Work with cosets and the concept of quotient group. In particular, use the fact that cosets form a partition, and understand when two cosets are equal to each other. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Apply the First Isomorphism Theorem to prove isomorphisms and to compute orders of groups, or the index of a subgroup. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the Lagrange theorem and its consequences in a variety of problems 
+        </p>
+      </li>
+      <li>
+        <p>
+           Work with the notion of order of an element. Find orders of elements, prove results about orders.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a given relation is an equivalence relation
+        </p>
+      </li>
+      <li>
+        <p>
+           Prove that a given function is well-defined. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Work with matrices, determinants, integers modulo <m>n</m>, integers, rational, real and complex numbers. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Work with fields, and in particular <m>\mathbb F_p</m>; Know how to compute inverses of elements in <m>\mathbb F_p</m>.  
+        </p>
+      </li>
+      <li>
+        <p>
+          Use basic notions of linear algebra: vector space, subspace, basis, linear transformation. Prove a set is a subspace, find a basis, prove that a function is a linear transformation, prove that 2 vector spaces are isomorphic. 
+        </p>
+      </li>
+      <li>
+        <p>
+         Find the matrix of linear transformation with respect to a choice of bases. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Reason using the concepts of orthogonal matrix and orthogonal operator.
+        </p>
+      </li>
+</ol>
+<p>
+  I may ask you to write some proofs done in class (about two). I am indicating below a list of proofs that you should be able to reproduce, mainly because I consider the ideas and the skills developed in these proofs to be important. I am also taking the opportunity to highlight below some other advice for your review.
+</p>
+
+<ul>
+  <li>
+    <p>
+      <alert>Chapter 1</alert>:  You will not be asked to prove any theorem from this chapter. Review basic properties of matrices, such as <m>\det(AB)=\det(A)\det(B)</m>, etc. 
+      Know what a permutation is and understand the notation. Know how to associate a permutation matrix to a permutation. Know the definition of signature and how to  compute it (either as a determinant, or by counting transpositions.) Know how to write a permutation as a product of disjoint cycles. Know how to write a permutation as a product of transpositions. 
+    </p>
+  </li>
+  <li>
+    <p>
+      <alert>Chapter 2</alert>: Here is a list of theorems from this Chapter that you may be asked to prove: 
+      <ul>
+        <li>
+          <p>
+           Theorem 2.3.3 and Propositions 2.3.5. 
+          </p>
+        </li>
+        <li>
+          <p>
+            Proposition 2.4.2 and Proposition 2.4.3 (the proof of the last bullet was assigned as hw.) 
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that the kernel and the image of a homomorphism are subgroups, and the kernel is also normal
+          </p>
+        </li>
+        <li>
+          <p>
+            Corollary 2.5.9 (without using Proposition 2.5.8, see class notes)
+          </p>
+        </li>
+        <li>
+          <p>
+            Lemma 2.8.7, the counting formula, Lagrange's Theorem and the corollaries 2.8.10 and 2.8.11.
+          </p>
+        </li>
+        <li>
+          <p>
+            Proposition 2.10.4 
+          </p>
+        </li>
+        <li>
+          <p>
+            Proposition 2.11.4 (a), (b), (c) only
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove: if <m>\gcd(m,n)=1</m>, then <m>C_m\times C_n\cong C_{mn}</m>. (The proof we did established first a formula for the order of an element in a product group as being the lcm of the orders of the components; be able to justify this formula.)
+          </p>
+        </li>
+        <li>
+          <p>
+           The First Isomorphism Theorem 
+          </p>
+        </li>
+      </ul>
+    </p>
+  </li>
+  <p>
+  Many of these results are rather important, and it is recommended that you know very well  their statements, so that you can apply them correctly  in various problems. Make sure that you know what needs to be verified in order to apply the Product Proposition or FIT. Also, the last bullet of Proposition 2.4.3 can be rather useful, so make sure to memorize the formula. (Unless asked to prove it, you can use it where appropriate, as you did in the homework)   
+  </p>
+  <li>
+    <p>
+      <alert>Chapters 3 and 4</alert>: The results and definitions of this chapter are mostly ``background". Be able to use them. You do not need to worry about what was not discussed in class. 
+I may ask you to prove 
+    </p>
+    <ul>
+      <li>
+        <p>
+           Prove: <m>\mathbb Z_n</m> is a field if and only if <m>n</m> is prime. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Corollary 3.5.5
+        </p>
+      </li>
+    </ul>
+    
+Know the statement of Theorem 3.2.11. Make sure that you understand and you are able to work with the concepts of: vector space, subspace, linear independence, span, basis, change of basis matrix, matrix of a linear transformation. 
+ 
+  </li>
+<li>
+  <p>
+    <alert>Chapter 5</alert>: Know the definitions: orhonormal basis, orthogonal matrix, orthogonal operator. 
+I  may ask you to prove 
+  </p>
+<ul>
+  <li>
+    <p>
+      Proposition 5.1.11
+    </p>
+  </li>
+  <li>
+    <p>
+      Proposition 5.1.13
+    </p>
+  </li>
+  <li>
+    <p>
+     Proposition 5.1.14 (including Lemma 5.1.15; in class, we incorporated the lemma into the proof) 
+    </p>
+  </li>
+</ul>
+
+</li>
+</ul>
+
+
 
 </section>
