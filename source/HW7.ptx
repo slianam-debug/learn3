@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="HW7" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework 7</title>
+
+
+  
+  <p><alert> Due Wednesday, October 29</alert></p>
+
+<exercises xml:id="hw7-ex">
+   
+     <exercise>
+        <p>
+        [Chapter 5, starting p.150]: 1.1 (a), (b) 
+        </p> 
+        <solution>
+            <p>
+               Note about 1.1(b): For this particular angle, the rotation could be visualized 
+geometrically. However, I would like you to follow the procedure of finding the matrix <m>A</m> that we described in class: Find an orthonormal basis with matrix <m>P</m> first using the Gram-Schmidt algorithm, and then use the change of basis formula.  
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise>
+    <p> [Chapter 6, starting p.188]: 3.2, 3.6(ab)
+      </p>
+</exercise>
+
+<exercise>
+  <statement>
+    <p> [Problem A] Let <m>T\colon \mathbb R^n\to \mathbb R^n</m> denote a linear operator and let <m>B</m> be an ortonormal basis of  <m>\mathbb R^n</m>. Let <m>A'</m> denote the matrix of  <m>T</m> with respect to the basis <m>B</m> (considered on both the domain and codomain). 
+        <ol>
+            <li>
+                <p>
+                 Prove that <m>T</m> is orthogonal if and only if  <m>A'</m> is an orthogonal matrix.     
+                </p>
+            </li>
+            <li>
+                <p>
+                    Assume <m>n=3</m>. Prove that <m>T</m> is a rotation if and only if <m>A'\in SO_3</m>. 
+               </p>
+            </li>
+        </ol>
+    </p>
+  </statement>  
+  <hint>
+    <p>
+     For (a), use Propositions 5.1.14 and 4.2.13. For (b), you may use Euler's theorem as well. 
+    </p>
+  </hint>
+</exercise>
+
+
+
+<exercise>
+  <statement>
+    <p> [Problem B] Let <m>C=\begin{bmatrix} -1\amp 0\amp 0\\0 \amp 1 \amp 0\\0 \amp 0\amp 1\end{bmatrix}</m>. Describe geometrically the operator <m>T(x)=Cx</m>.
+    </p>
+  </statement>  
+</exercise>
+
+
+
+<exercise>
+  <statement>
+    <p> [Problem C] Let <m>T_1=\rho_{(u_1, \alpha_1)}</m> and let <m>T_2=\rho_{(u_2, \alpha_2)}</m> be two rotations in <m>\mathbb R^3</m>.  Show that there exists <m>u\in \mathbb R^3</m>  and an angle <m>\alpha</m> such that the composition <m>T_1\circ T_2</m> is a rotation <m>\rho_{(u,\alpha)}</m>. (In short: composition of two rotations in <m>\mathbb R^3</m> is a rotation. This is a trivial statement in <m>\mathbb R^2</m>, but it is not as trivial in <m>\mathbb R^3</m> when we rotate around different pole vectors.)
+    </p>
+  </statement>  
+  <hint>
+    <p>
+        Use Euler's theorem to translate into a statement about matrices.
+    </p>
+  </hint>
+</exercise>
+
+
+<exercise>
+  <statement>
+    <p> [Problem D] Let <m>A\in O_3</m> with <m>\det(A)=-1</m>. Prove that <m>A</m> has an eigenvalue <m>\lambda=-1</m>. 
+    </p>
+  </statement>  
+  <hint>
+    <p>
+     Mimic, with adjustments as needed, the proof of Lemma 5.1.29   
+    </p>
+  </hint>
+</exercise>
+
+
+
+<exercise>
+  <statement>
+    <p> [Problem E] 
+        Euler's theorem describes all matrices in <m>O_3</m> with determinant <m>1</m> as being rotation matrices. We can understand thus the operators given by such matrices in a geometric manner: rotate in a plane perpendicular to some pole vector (that is an eigenvector for the matrix), leaving the pole vector unchanged. 
+    </p>
+
+<p> If <m>A\in O_3</m> with <m>\det(A)=-1</m>, can you describe geometrically (in a somewhat similar manner) the operators  <m>T(x)=Ax</m> given by these matrices?  How do these operators act on points in <m>\mathbb R^3</m>? 
+    </p>
+  </statement>  
+</exercise>
+
+
+<exercise>
+  <statement>
+    <p> [Problem F]  Let <m>r_1</m>, <m>r_2</m> and <m>\rho</m> denote isometries in <m>\mathbb R^2</m> such that:
+    </p>
+      <ul>
+        <li>
+          <p> <m>r_1</m> is a reflection in a line <m>\ell_1</m></p>
+        </li>
+        <li>
+         <p><m>\rho</m> is a rotation of angle <m>\theta</m> (not necessarily though the origin)</p>
+      </li>
+      <li>
+      <p> <m>r_2</m> is a reflection in a line <m>\ell_2</m> </p>
+    </li>
+  </ul>
+  <p>
+     Prove that the composition <m>r_1 \rho r_2</m> is a rotation or a translation. 
+    </p>
+  </statement>  
+  <solution>
+    <p>
+        Note that rotations and translations are precisely the isometries of <m>\mathbb R^2</m> that are orientation preserving. 
+    Remember that isometries form a group and think about how one can decide orientation preserving or reversing.
+      </p>
+  </solution>
+</exercise>
+
+
+
+
+<exercise>
+  <statement>
+    <p> [Problem G] Let <m>s</m> denote a rotation of angle <m>\theta=\frac{\pi}{3}</m> in the plane, about the point <m>(1,\sqrt 3)</m>. Find a vector <m>a</m> such that <m>s=t_a\rho_{\theta}</m> and then write an explicit  formula for <m>s(x)</m> for any <m>x\in \mathbb R^2</m>. 
+    </p>
+  </statement>  
+</exercise>
+
+
+<exercise>
+  <statement>
+    <p> [Problem H] Working in the group <m>T</m> of all translations in <m> \mathbb R^2</m> (it is a group with respect to composition):  Note that, if <m>a</m> is a nonzero vector in <m>\mathbb R^2</m>, then <m>\langle t_a\rangle\cong C_{\infty}</m> because <m>t_a</m> has infinite order. (Recall that <m>C_{\infty}</m> is the cyclic group generated by an element of infinite order. It is isomorphic to <m>\mathbb Z^+</m>.)  
+    </p>
+     <p> 
+      Now prove: If <m>a</m> and <m>b</m> are two linearly independent vectors in <m>\mathbb R^2</m>, then <m>\langle t_a, t_b\rangle \cong C_{\infty}\times C_{\infty}</m> (or <m>\mathbb Z\times \mathbb Z</m> if you want.)
+Make sure to emphasize in your proof how the hypothesis that <m>a,b</m> are linearly independent is used. 
+    </p>
+  </statement>  
+  <hint>
+    <p>
+      Use the Product Proposition. Note that <m>(t_a)^n=t_{na}</m>.   
+    </p>
+  </hint>
+</exercise>
+
+
+
+<exercise>
+  <statement>
+    <p> [Problem F] Suppose <m>\varphi\colon\mathbb R^n\to\mathbb R^n</m> is a function that preserves 
+dot products.  In other words, for all <m>u,v\in\mathbb R^n</m>, we have
+<m>(u\cdot v)=(\varphi u\cdot\varphi v)</m>. (To simplify notation we write <m>\varphi u</m> instead of <m>\varphi(u)</m>.) 
+
+Using only basic properties of dot product (such as 
+the distributive law) and the definition of length: 
+</p>
+<ol>
+    <li>
+        <p>
+         Prove that for all <m>u,v\in\mathbb R^n</m>, we have <m>|u+v|=|\varphi u+\varphi v|</m>.
+        </p>
+    </li>
+ <li> 
+    <p>Prove that 
+for all <m>u,v,w\in\mathbb R^n</m>, we have <m>|u+v-w|=|\varphi u+\varphi v-\varphi w|</m>.
+    </p>
+</li>
+ <li>
+    <p>
+ Prove that <m>\varphi(u+v)=\varphi u+\varphi v</m>, by taking <m>w=u+v</m> in part (b). 
+    </p>
+</li>
+</ol>
+      </statement>  
+      <solution>
+        <p>
+            
+Note: this problem addresses the implication <m>(b)\implies (c)</m> in Theorem 6.2.3. 
+        </p>
+      </solution>
+</exercise>
+
+
+</exercises>
+
+
+
+</section>
