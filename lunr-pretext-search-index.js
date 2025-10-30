@@ -361,6 +361,33 @@ var ptx_lunr_docs = [
   "body": "  [Problem F] Suppose is a function that preserves dot products. In other words, for all , we have . (To simplify notation we write instead of .) Using only basic properties of dot product (such as the distributive law) and the definition of length:    Prove that for all , we have .    Prove that for all , we have .    Prove that , by taking in part (b).      Note: this problem addresses the implication in Theorem 6.2.3.   "
 },
 {
+  "id": "HW8",
+  "level": "1",
+  "url": "HW8.html",
+  "type": "Section",
+  "number": "1.8",
+  "title": "Homework 8",
+  "body": " Homework 8  Due Wednesday, November 5    [Chapter 6, starting p.188]: 4.1, 4.3, 5.5, 5.6, 7.1     For 4.3(b): While we denote by the smallest non-identity rotation in a dihedral group, please note that this rotation in is not the same as the one in . I recommend using for the rotation in and for the one in . Do not call them both when you need to make computations that involve both! However ... What is the relationship between and ? This relationship would be useful in computations.    For 4.3(b): One way to proceed is to use the first isomorphism theorem. You need to define an onto homomorphism with Ker . However, when defining the map , make sure it is well defined, i.e.: If (this does not necessarily imply and ), why can you conclude that ? Also, make sure to check it is a homomorphism.    For 4.3(c) you can use the Product Proposition. Make sure to verify the hypotheses are satisfied.        [Problem A] Use the pictures on page 174 of your book.    Among the pictures on page 174, find one whose point group is ; explain how you know this.    Among the pictures on page 174, find one whose point group is ; explain how you know this.    Find the point group for the following pattern (ignore the colors):   a pattern        "
+},
+{
+  "id": "hw8-ex-1",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-1",
+  "type": "Exercise",
+  "number": "1.8.1",
+  "title": "",
+  "body": " [Chapter 6, starting p.188]: 4.1, 4.3, 5.5, 5.6, 7.1     For 4.3(b): While we denote by the smallest non-identity rotation in a dihedral group, please note that this rotation in is not the same as the one in . I recommend using for the rotation in and for the one in . Do not call them both when you need to make computations that involve both! However ... What is the relationship between and ? This relationship would be useful in computations.    For 4.3(b): One way to proceed is to use the first isomorphism theorem. You need to define an onto homomorphism with Ker . However, when defining the map , make sure it is well defined, i.e.: If (this does not necessarily imply and ), why can you conclude that ? Also, make sure to check it is a homomorphism.    For 4.3(c) you can use the Product Proposition. Make sure to verify the hypotheses are satisfied.     "
+},
+{
+  "id": "hw8-ex-2",
+  "level": "2",
+  "url": "HW8.html#hw8-ex-2",
+  "type": "Exercise",
+  "number": "1.8.2",
+  "title": "",
+  "body": "  [Problem A] Use the pictures on page 174 of your book.    Among the pictures on page 174, find one whose point group is ; explain how you know this.    Among the pictures on page 174, find one whose point group is ; explain how you know this.    Find the point group for the following pattern (ignore the colors):   a pattern      "
+},
+{
   "id": "Exam1-review",
   "level": "1",
   "url": "Exam1-review.html",
