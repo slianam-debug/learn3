@@ -1,0 +1,65 @@
+<section xml:id="HW8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework 8</title>
+
+
+  
+  <p><alert> Due Wednesday, November 5</alert></p>
+
+<exercises xml:id="hw8-ex">
+   
+     <exercise>
+        <p>
+        [Chapter 6, starting p.188]: 4.1, 4.3, 5.5, 5.6, 7.1
+        </p> 
+        <solution>
+                <ul>
+<li>
+    <p>For 4.3(b): While we denote by <m>x</m> the smallest non-identity rotation in a dihedral group, please note that this rotation in <m>D_5</m> is not the same as the one in <m>D_{10}</m>. I recommend using <m>x^*</m> for the rotation in <m>D_5</m> and <m>x</m> for the one in <m>D_{10}</m>.  Do not call them both <m>x</m> when you need to make computations that involve both!
+However ... What is the relationship between <m>x^*</m> and <m>x</m>? This relationship would be useful in computations.  
+    </p>
+</li>
+<li>
+    <p>
+For 4.3(b): One way to proceed is to use the first isomorphism theorem.  You need to define an onto homomorphism <m>f\colon D_{10}\to D_5</m> with Ker<m>f=H</m>. However, when defining the map <m>f</m>, make sure it is well defined, i.e.: If <m>x^iy^j=x^ay^b</m> (this does not necessarily imply <m>i=a</m> and <m>j=b</m>), why can you conclude that <m>f(x^iy^j)=f(x^ay^b)</m>? 
+ Also, make sure to check it is a homomorphism.  
+</p>
+</li>
+<li>
+    <p>
+ For 4.3(c) you can use the Product Proposition. Make sure to verify the hypotheses are satisfied. 
+    </p>
+</li>
+</ul>
+</solution>
+    </exercise>
+
+<exercise>
+  <statement>
+    <p> [Problem A] Use the pictures on page 174 of your book. </p>
+<ol>
+            <li>
+                <p>
+                     Among the pictures on page 174, find one whose point group is <m>C_3</m>; explain how you know this.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Among the pictures on page 174, find one whose point group is <m>D_6</m>; explain how you know this. 
+               </p>
+            </li>
+            <li>
+                <p>
+                    Find the point group for the following pattern (ignore the colors):</p>
+                    <image source="hats.jpg" width="70%">
+    <shortdescription>a pattern</shortdescription>
+</image>
+            </li>
+        </ol>
+  </statement>  
+</exercise>
+
+</exercises>
+
+
+
+</section>
