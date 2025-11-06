@@ -388,6 +388,60 @@ var ptx_lunr_docs = [
   "body": "  [Problem A] Use the pictures on page 174 of your book.    Among the pictures on page 174, find one whose point group is ; explain how you know this.    Among the pictures on page 174, find one whose point group is ; explain how you know this.    Find the point group for the following pattern (ignore the colors):   a pattern      "
 },
 {
+  "id": "HW9",
+  "level": "1",
+  "url": "HW9.html",
+  "type": "Section",
+  "number": "1.9",
+  "title": "Homework 9",
+  "body": " Homework 9  Due Wednesday, November 12    [Chapter 6, starting p.188]: 8.2, 9.1, 9.2*, 11.3   For 9.2: There are 3 sets, , , and 3 subgroups, , , . There are 9 possible choices for a set and a subgroup. Thus a complete answer to this problem includes 9 different formulas, for each of the 9 choices.      [Problem A] Let .    Consider the action of on the vertices labelled 1,2,3,4 of a square centered at the origin, so that vertices 1 and 3 are on the -axis. Describe the function for:    ;     In each case, write as a cycle or as a product of cycles.    Consider the subgroup of . Identify all the distinct left cosets of in and consider the action of on these cosets. Describe the function ; Labelling the cosets as write as a cycle or a product of cycles (as done on page 179 of the book, in a similar situation.)        [Problem B] The permutation group acts on the set by for any and .   Prove that this action is transitive.    If , how many elements does the stabilizer group of have?    Identify the stabilizer by proving an isomorphism with being a well-understood group.         [Problem C] The icosahedral group is the group of rotational symmetries of a dodecahedron. A diagonal of the dodecahedron is a segment joining opposite vertices. There are such diagonals. How many rotations of are in the stabilizer of a diagonal? (You do not need to describe them, just figure out their number.) Justify your answer using group actions and the counting formula.      [Problem D] Let be a group of order . Assume that acts on the set . Prove that this action cannot be faithful.    Use the associated permutation representation .     "
+},
+{
+  "id": "hw9-ex-1",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-1",
+  "type": "Exercise",
+  "number": "1.9.1",
+  "title": "",
+  "body": " [Chapter 6, starting p.188]: 8.2, 9.1, 9.2*, 11.3   For 9.2: There are 3 sets, , , and 3 subgroups, , , . There are 9 possible choices for a set and a subgroup. Thus a complete answer to this problem includes 9 different formulas, for each of the 9 choices.   "
+},
+{
+  "id": "hw9-ex-2",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-2",
+  "type": "Exercise",
+  "number": "1.9.2",
+  "title": "",
+  "body": "  [Problem A] Let .    Consider the action of on the vertices labelled 1,2,3,4 of a square centered at the origin, so that vertices 1 and 3 are on the -axis. Describe the function for:    ;     In each case, write as a cycle or as a product of cycles.    Consider the subgroup of . Identify all the distinct left cosets of in and consider the action of on these cosets. Describe the function ; Labelling the cosets as write as a cycle or a product of cycles (as done on page 179 of the book, in a similar situation.)     "
+},
+{
+  "id": "hw9-ex-3",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-3",
+  "type": "Exercise",
+  "number": "1.9.3",
+  "title": "",
+  "body": "  [Problem B] The permutation group acts on the set by for any and .   Prove that this action is transitive.    If , how many elements does the stabilizer group of have?    Identify the stabilizer by proving an isomorphism with being a well-understood group.      "
+},
+{
+  "id": "hw9-ex-4",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-4",
+  "type": "Exercise",
+  "number": "1.9.4",
+  "title": "",
+  "body": "  [Problem C] The icosahedral group is the group of rotational symmetries of a dodecahedron. A diagonal of the dodecahedron is a segment joining opposite vertices. There are such diagonals. How many rotations of are in the stabilizer of a diagonal? (You do not need to describe them, just figure out their number.) Justify your answer using group actions and the counting formula.   "
+},
+{
+  "id": "hw9-ex-5",
+  "level": "2",
+  "url": "HW9.html#hw9-ex-5",
+  "type": "Exercise",
+  "number": "1.9.5",
+  "title": "",
+  "body": "  [Problem D] Let be a group of order . Assume that acts on the set . Prove that this action cannot be faithful.    Use the associated permutation representation .   "
+},
+{
   "id": "Exam1-review",
   "level": "1",
   "url": "Exam1-review.html",
