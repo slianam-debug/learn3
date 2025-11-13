@@ -442,6 +442,60 @@ var ptx_lunr_docs = [
   "body": "  [Problem D] Let be a group of order . Assume that acts on the set . Prove that this action cannot be faithful.    Use the associated permutation representation .   "
 },
 {
+  "id": "HW10",
+  "level": "1",
+  "url": "HW10.html",
+  "type": "Section",
+  "number": "1.10",
+  "title": "Homework 10",
+  "body": " Homework 10  Due Wednesday, November 19    [Chapter 7]: 2.2, 2.3, 2.9abc, 2.13, 3.1, 3.2     For 2.2: Find first the order of . Then use the fact that .    For 2.3: Assume that the center is not trivial. First, prove that , using the fact that for any . What is the class equation of in this case?    For 2.13: Since is normal, is a union of conjugacy classes of . To show that is contained in the center, you need to show that each of these conjugacy classes has order equal to         [Problem A] Let be the group of the 12 rotational symmetries of a tetrahedron.     acts on the set of 4 vertices of the tetrahedron. Is this action faithful?    Define an OEP (opposite edge pair) of the tetrahedron as follows: Two edges form an OEP if they do not share a vertex. The tetrahedron has 6 edges, which are partitioned into 3 OEPs. acts faithfully on the set of 6 edges. However, show that the action of on the set of OEPs is not faithful.    By making use of part (b) and the permutation representation of the action, show that has a normal subgroup other than and . In other words, show is not a simple group.    How many elements of order 3 are in ? How many elements of order 2? How many elements of order 4? How many elements of order 6?    Find the class equation of . (Note that the elements of order are not all conjugate to each other; explain why.)    Use the class equation to prove that does not have a subgroup of order .        [Problem B] Let be a group of order 150. Let be a subgroup of of order 25. (The first Sylow theorem says that such an must exist.) Consider the action of on by left multiplication: . Use the permutation representation of the action to show that is not simple.      [Problem C] Let be a simple group and let be a subgroup of with . Prove that is isomorphic to a subgroup of the permutation group .    Consider the action of on its cosets and the associated permutation representation. Show that the action is faithful, so the representation is injective.      [Problem D] Let be a simple group and let be a subgroup of such that . In Problem C, you proved that is isomorphic to a subgroup of . If , prove that is isomorphic to a subgroup of .    Look at the last part of the proof showing that the icosahedral group is isomorphic to .     "
+},
+{
+  "id": "hw10-ex-1",
+  "level": "2",
+  "url": "HW10.html#hw10-ex-1",
+  "type": "Exercise",
+  "number": "1.10.1",
+  "title": "",
+  "body": " [Chapter 7]: 2.2, 2.3, 2.9abc, 2.13, 3.1, 3.2     For 2.2: Find first the order of . Then use the fact that .    For 2.3: Assume that the center is not trivial. First, prove that , using the fact that for any . What is the class equation of in this case?    For 2.13: Since is normal, is a union of conjugacy classes of . To show that is contained in the center, you need to show that each of these conjugacy classes has order equal to      "
+},
+{
+  "id": "hw10-ex-2",
+  "level": "2",
+  "url": "HW10.html#hw10-ex-2",
+  "type": "Exercise",
+  "number": "1.10.2",
+  "title": "",
+  "body": "  [Problem A] Let be the group of the 12 rotational symmetries of a tetrahedron.     acts on the set of 4 vertices of the tetrahedron. Is this action faithful?    Define an OEP (opposite edge pair) of the tetrahedron as follows: Two edges form an OEP if they do not share a vertex. The tetrahedron has 6 edges, which are partitioned into 3 OEPs. acts faithfully on the set of 6 edges. However, show that the action of on the set of OEPs is not faithful.    By making use of part (b) and the permutation representation of the action, show that has a normal subgroup other than and . In other words, show is not a simple group.    How many elements of order 3 are in ? How many elements of order 2? How many elements of order 4? How many elements of order 6?    Find the class equation of . (Note that the elements of order are not all conjugate to each other; explain why.)    Use the class equation to prove that does not have a subgroup of order .     "
+},
+{
+  "id": "hw10-ex-3",
+  "level": "2",
+  "url": "HW10.html#hw10-ex-3",
+  "type": "Exercise",
+  "number": "1.10.3",
+  "title": "",
+  "body": "  [Problem B] Let be a group of order 150. Let be a subgroup of of order 25. (The first Sylow theorem says that such an must exist.) Consider the action of on by left multiplication: . Use the permutation representation of the action to show that is not simple.   "
+},
+{
+  "id": "hw10-ex-4",
+  "level": "2",
+  "url": "HW10.html#hw10-ex-4",
+  "type": "Exercise",
+  "number": "1.10.4",
+  "title": "",
+  "body": "  [Problem C] Let be a simple group and let be a subgroup of with . Prove that is isomorphic to a subgroup of the permutation group .    Consider the action of on its cosets and the associated permutation representation. Show that the action is faithful, so the representation is injective.   "
+},
+{
+  "id": "hw10-ex-5",
+  "level": "2",
+  "url": "HW10.html#hw10-ex-5",
+  "type": "Exercise",
+  "number": "1.10.5",
+  "title": "",
+  "body": "  [Problem D] Let be a simple group and let be a subgroup of such that . In Problem C, you proved that is isomorphic to a subgroup of . If , prove that is isomorphic to a subgroup of .    Look at the last part of the proof showing that the icosahedral group is isomorphic to .   "
+},
+{
   "id": "Exam1-review",
   "level": "1",
   "url": "Exam1-review.html",
