@@ -49,7 +49,7 @@
 <exercise>
     <statement>
         <p>
-         Let <m>G</m> be a finite group and <m>p</m> a prime order dividing the order of <m>G</m>. Prove that <m>G</m> is a <m>p</m>-group if and only if the order of every element of <m>G</m> is a power of <m>p</m>. 
+         Let <m>G</m> be a finite group and <m>p</m> a prime number dividing the order of <m>G</m>. Prove that <m>G</m> is a <m>p</m>-group if and only if the order of every element of <m>G</m> is a power of <m>p</m>. 
         </p>
     </statement>
     <hint>
