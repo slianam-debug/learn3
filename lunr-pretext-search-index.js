@@ -496,6 +496,51 @@ var ptx_lunr_docs = [
   "body": "  [Problem D] Let be a simple group and let be a subgroup of such that . In Problem C, you proved that is isomorphic to a subgroup of . If , prove that is isomorphic to a subgroup of .    Look at the last part of the proof showing that the icosahedral group is isomorphic to .   "
 },
 {
+  "id": "HW11",
+  "level": "1",
+  "url": "HW11.html",
+  "type": "Section",
+  "number": "1.11",
+  "title": "Homework 11",
+  "body": " Homework 11  Due Wednesday, December 10     Let be a group of order . Let be a Sylow -subgroup of . Prove that is normal.    Use the Sylow theorems. Explain how they are applied.      Let be two primes such that and does not divide . If is a group of order , prove .    This should be similar to what we did for groups of order       Prove that a group of order is not simple.    Use the same ideas as in the beginning of the proof of Theorem 7.8.1.      Let be a finite group and a prime order dividing the order of . Prove that is a -group if and only if the order of every element of is a power of .    One direction is Lagrange. The other one should involve a Sylow theorem. Also, feel free to use the fact that every positive integer factors as a product of primes.     "
+},
+{
+  "id": "hw11-ex-1",
+  "level": "2",
+  "url": "HW11.html#hw11-ex-1",
+  "type": "Exercise",
+  "number": "1.11.1",
+  "title": "",
+  "body": "  Let be a group of order . Let be a Sylow -subgroup of . Prove that is normal.    Use the Sylow theorems. Explain how they are applied.   "
+},
+{
+  "id": "hw11-ex-2",
+  "level": "2",
+  "url": "HW11.html#hw11-ex-2",
+  "type": "Exercise",
+  "number": "1.11.2",
+  "title": "",
+  "body": "  Let be two primes such that and does not divide . If is a group of order , prove .    This should be similar to what we did for groups of order    "
+},
+{
+  "id": "hw11-ex-3",
+  "level": "2",
+  "url": "HW11.html#hw11-ex-3",
+  "type": "Exercise",
+  "number": "1.11.3",
+  "title": "",
+  "body": "  Prove that a group of order is not simple.    Use the same ideas as in the beginning of the proof of Theorem 7.8.1.   "
+},
+{
+  "id": "hw11-ex-4",
+  "level": "2",
+  "url": "HW11.html#hw11-ex-4",
+  "type": "Exercise",
+  "number": "1.11.4",
+  "title": "",
+  "body": "  Let be a finite group and a prime order dividing the order of . Prove that is a -group if and only if the order of every element of is a power of .    One direction is Lagrange. The other one should involve a Sylow theorem. Also, feel free to use the fact that every positive integer factors as a product of primes.   "
+},
+{
   "id": "Exam1-review",
   "level": "1",
   "url": "Exam1-review.html",
