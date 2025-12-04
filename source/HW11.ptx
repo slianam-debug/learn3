@@ -1,0 +1,66 @@
+<section xml:id="HW11" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework 11</title>
+
+
+  
+  <p><alert> Due Wednesday, December 10</alert></p>
+
+<exercises xml:id="hw11-ex">
+   
+<exercise>
+    <statement>
+        <p>
+          Let <m>G</m> be a group of order <m>100=2^2\times 5^2</m>. Let <m>H</m> be a Sylow <m>5</m>-subgroup of <m>G</m>. Prove that <m>H</m> is normal. 
+        </p>
+        </statement>
+    <hint>
+        <p>
+            Use the Sylow theorems. Explain how they are applied. 
+        </p>
+    </hint>
+</exercise>
+
+<exercise>
+    <statement>
+        <p>
+         Let <m>p,q</m> be two primes such that <m>p>q</m> and <m>q</m> does not divide <m>p-1</m>. If <m>G</m> is a group of order <m>pq</m>, prove <m>G\cong C_{pq}</m>. 
+        </p>
+    </statement>
+    <hint>
+        <p>
+        This should be similar to what we did for groups of order <m>15</m>   
+        </p>
+        </hint>
+</exercise>
+
+<exercise>
+    <statement>
+        <p>
+         Prove that a group of order <m>56</m> is not simple. 
+        </p>
+    </statement>
+    <hint>
+        <p>
+    Use the same ideas as in the beginning of the proof of Theorem 7.8.1.
+        </p>
+    </hint>
+</exercise>
+
+<exercise>
+    <statement>
+        <p>
+         Let <m>G</m> be a finite group and <m>p</m> a prime order dividing the order of <m>G</m>. Prove that <m>G</m> is a <m>p</m>-group if and only if the order of every element of <m>G</m> is a power of <m>p</m>. 
+        </p>
+    </statement>
+    <hint>
+        <p>
+    One direction is Lagrange. The other one should involve a Sylow theorem. Also, feel free to use the fact that every positive integer factors as a product of primes. 
+        </p>
+    </hint>
+</exercise>
+
+</exercises>
+
+
+
+</section>
